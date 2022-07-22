@@ -86,7 +86,8 @@
             {
               "key_code": "spacebar",
               "modifiers": [
-                "left_control"
+                "right_shift",
+                "left_option"
               ]
             }
           ]
