@@ -13,7 +13,7 @@
 
    或使用Safari打开下面的链接，将自动启动Karabiner并加载Capslock配置文件。
 
-   ```yaml
+   ```
    # Capslock 官方网站 (v3)
    karabiner://karabiner/assets/complex_modifications/import?url=https://vonng.com/capslock.json
    
